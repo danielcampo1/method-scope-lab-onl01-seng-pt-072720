@@ -1,5 +1,5 @@
 
 
-def catch_phrase(
+def catch_phrase("I'm ready!")
   puts "#{phrase}" 
 end
